@@ -1,2 +1,27 @@
 # mening-birinchi-repozitorim
-bu mening birinchi loyiham
+##creator Bekzod42mk
+##bu mening birinchi loyiham telegram bot
+**bu phyton dasturlash tilda yasalgan**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
